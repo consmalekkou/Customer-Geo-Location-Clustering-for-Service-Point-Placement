@@ -37,6 +37,8 @@ The k-means clustering model is implemented in this notebook. The initial custom
 5_GeolocationPrjCM_Comparisons.ipynb
 In this final notebook we compare the measurements that have been made on the same dataset of customers for the 2 competing companies and the model service points. 
 
+The Technical Report attached contains full project details and model results.
+
 Developed by: Constantia Malekkou
 
 Contact email: constantia.malekkou@gmail.com
