@@ -1,8 +1,8 @@
 # Service-Point-Placement-By-Customer-Geo-Location-Clustering
 
-This project has been developed as a Project in Data Science (COMP592DL), under the MSc in Data Science at the University of Nicosia.
+This project has been developed as a Project in Data Science (COMP592DL), for the MSc in Data Science at the University of Nicosia.
 
-For this project, we have gathered open-source data to serve as a sample population, to demonstrate how the use of machine learning methods, and specifically the k-Means unsupervised clustering algorithm, can provide data driven insight to any company that is interested in the optimal placement of its service points, when the distance to its customers is important.
+For this project, we have gathered open-source data to serve as a sample population, to demonstrate how the use of machine learning methods, and specifically the k-Means unsupervised clustering algorithm, can provide data driven insights to companies that are interested in the optimal placement of service points, when the distance to customers is important.
 
 The results of this model demonstrate that near-optimal locations can be identified, and if utilized can benefit any retailer company. For the sample population examined, the optimal placement revealed that a smaller number of service points when strategically placed leads to reduced operating cost, while simultaneously reducing the distance-to-be-travelled to a service point.  
 
