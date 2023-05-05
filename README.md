@@ -1,7 +1,7 @@
 # Service-Point-Placement-By-Customer-Geo-Location-Clustering
 ### Location, Location, Location When Distance, Distance, Distance Matters 
 
-The purpose of this project is to try to identify the optimal number and placement of physical store locations, for a retailer company that depends on a physical network for the distribution of goods and services to its customers. The target variable is the minimization of the distance to be travelled to the nearest point by the retailer’s customers. 
+The purpose of this project is to try to identify the optimal number and placement of physical store locations, for a retailer company that depends on a physical network for the distribution of goods and services to its customers. The target variable is the minimization of the distance to the nearest service point by the retailer’s customers. 
 
 To this extend, we have gathered open-source data to serve as a sample population, and used the k-Means unsupervised clustering algorithm, for the model development. The results of the model are the optimal number and geographical positions of service points for a retailer company, based on the geolocations of the retailer’s customers. The service points proposed by the developed model minimize the distance-to-be-travelled by the customers to the nearest service point, with the least number of service points, resulting to reduced operating costs. 
 
