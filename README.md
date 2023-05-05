@@ -1,4 +1,4 @@
-# Customer-Geo-Location-Clustering-for-Service-Point-Placement
+# Service-Point-Placement-By-Customer-Geo-Location-Clustering
 
 This project has been developed as a Project in Data Science (COMP592DL), under the MSc in Data Science at the University of Nicosia.
 
@@ -37,7 +37,6 @@ The k-means clustering model is implemented in this notebook. The initial custom
 In this final notebook we compare the measurements that have been made on the same dataset of customers for the 2 competing companies and the model service points. 
 
 Developed by: Constantia Malekkou
-
 Contact email: constantia.malekkou@gmail.com
 
 Supervised by: Dr. Demetris Trihinas
