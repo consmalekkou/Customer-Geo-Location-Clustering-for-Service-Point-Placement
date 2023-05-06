@@ -1,6 +1,8 @@
 # Service-Point-Placement-By-Customer-Geo-Location-Clustering
 ### Location, Location, Location When Distance, Distance, Distance Matters 
 
+The location of a physical store is important for any retailer company that relies on a distributed branch network for the promotion of its goods and services. The distance to the nearest service point is an important factor to consider, as it is a measure of convenience for its customers. The initial set-up costs required for the establishment of a new service point should be carefully weighed against the expected benefits, as future relocations or new establishments translate to additional, unnecessary costs. The insights of this model would be useful to the retailer company’s management as it would facilitate data driven decision making regarding the retailer’s physical service point locations.
+
 The purpose of this project is to try to identify the optimal number and placement of physical store locations, for a retailer company that depends on a physical network for the distribution of goods and services to its customers. The target variable is the minimization of the distance to the nearest service point by the retailer’s customers. 
 
 To this extend, we have gathered open-source data to serve as a sample population, and used the k-Means unsupervised clustering algorithm, for the model development. The results of the model are the optimal number and geographical positions of service points for a retailer company, based on the actual point geolocations of the retailer’s customers. The service points proposed by the developed model minimize the distance-to-be-travelled by the customers to the nearest service point, with the least number of service points, resulting to reduced operating costs. 
