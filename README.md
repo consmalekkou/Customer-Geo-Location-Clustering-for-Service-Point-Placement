@@ -7,6 +7,8 @@ The purpose of this project is to try to identify the optimal number and placeme
 
 To this extend, we have gathered open-source data to serve as a sample population, and used the k-Means unsupervised clustering algorithm, for the model development. The results of the model are the optimal number and geographical positions of service points for a retailer company, based on the actual point geolocations of the retailer’s customers. The service points proposed by the developed model minimize the distance-to-be-travelled by the customers to the nearest service point, with the least number of service points, resulting to reduced operating costs. 
 
+The model’s suggested locations have been compared against two sample companies’ existing service points. The results of the model show a significant improvement in minimizing the distance to be travelled to the nearest service point, while at the same time proposing a reduced number of service points.
+
 This project has been developed as a Project in Data Science (COMP592DL), for the MSc in Data Science at the University of Nicosia.
 
 ### Project Description
