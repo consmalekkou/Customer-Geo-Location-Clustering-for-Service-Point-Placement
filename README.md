@@ -11,7 +11,7 @@ This project has been developed as a Project in Data Science (COMP592DL), for th
 
 ### Project Description
 
-The project has been implemented with both PySpark and Python code. The initial data processign and address translation to geoloctions has been implemented with PySpark, and run on DataProc virtual machines in Google Cloud Platform. The rest of the project was implemented with Python 3.9 and run on local Jupyter notebook. All data soures and output files have been uploaded to a Google Cloud Storage Bucket, with public read access.
+The project has been implemented with both PySpark and Python code. The initial data processing and address translation to geolocations has been implemented with PySpark, and run on DataProc virtual machines in Google Cloud Platform. The rest of the project was implemented with Python 3.9 and run on local Jupyter notebook. All data soures and output files have been uploaded to a Google Cloud Storage Bucket, with public read access.
 
 #### Initial Data Sources
 
