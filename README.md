@@ -15,7 +15,7 @@ The project has been implemented with both PySpark and Python code. The initial 
 
 #### Initial Data Sources
 
-The initial data source for the model’s sample population was the Cyprus National OpenData Portal(1). More specifically, we have used the following files from the “Μητρώο Εγγεγραμμένων Εταιρειών, Εμπορικών Επωνυμιών και Συνεταιρισμών στην Κύπρο”(2): “Κατάλογος Οργανισμών”, which contains the list of all legal entities of Cyprus that are registered with the Registrar of Companies, and “Κατάλογος Διευθύνσεων Εγγεγραμμένου Γραφείου”, which is a list of all the registered office addresses of legal entities ever registered in Cyprus. The two files could be joined on the address sequence number, present as key in both files. The initial files used for this project are the organisations_51.csv and registered_office_52.csv, to be found in the 'initial data sources.ip'
+The initial data source for the model’s sample population was the Cyprus National OpenData Portal(1). More specifically, we have used the following files from the “Μητρώο Εγγεγραμμένων Εταιρειών, Εμπορικών Επωνυμιών και Συνεταιρισμών στην Κύπρο”(2): “Κατάλογος Οργανισμών”, which contains the list of all legal entities of Cyprus that are registered with the Registrar of Companies, and “Κατάλογος Διευθύνσεων Εγγεγραμμένου Γραφείου”, which is a list of all the registered office addresses of legal entities ever registered in Cyprus. The two files could be joined on the address sequence number, present as key in both files. The initial files used for this project are the organisations_51.csv and registered_office_52.csv, to be found in the 'initial data sources.zip'
 
 #### PySpark / Python Code Files
 
@@ -38,8 +38,6 @@ The k-means clustering model is implemented in this notebook. The initial custom
 
 5_GeolocationPrjCM_Comparisons.ipynb
 In this final notebook we compare the measurements that have been made on the same dataset of customers for the 2 competing companies and the model service points. 
-
-The Technical Report attached contains full project details and model results.
 
 Developed by: Constantia Malekkou
 
